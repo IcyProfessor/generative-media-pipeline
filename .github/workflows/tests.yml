@@ -1,0 +1,56 @@
+name: release-candidate-checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  offline:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+        python: ["3.12", "3.13", "3.14"]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: ${{ matrix.python }}
+          cache: pip
+          cache-dependency-path: pyproject.toml
+      - run: python -m pip install -e ".[dev,live,queue]"
+      - run: python -m pip check
+      - run: python -m pytest -q -ra
+      - run: python scripts/check_release.py
+      - run: python -m pip wheel --no-deps . --wheel-dir dist
+      - run: python scripts/wheel_smoke.py --wheel-dir dist
+      - run: python scripts/build_release.py --out dist/public-source.zip
+  redis-smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    services:
+      redis:
+        image: redis:7.4-alpine
+        ports:
+          - 6379:6379
+        options: >-
+          --health-cmd "redis-cli ping"
+          --health-interval 5s
+          --health-timeout 3s
+          --health-retries 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: pyproject.toml
+      - run: python -m pip install -e ".[dev,queue]"
+      - run: python -m pip check
+      - run: python scripts/redis_smoke.py
+        env:
+          REDIS_URL: redis://127.0.0.1:6379/0

@@ -1,0 +1,42 @@
+[
+  {
+    "label": "INTRO",
+    "start": 0.0,
+    "end": 1.87
+  },
+  {
+    "label": "A",
+    "start": 1.87,
+    "end": 3.66
+  },
+  {
+    "label": "B",
+    "start": 3.66,
+    "end": 5.45
+  },
+  {
+    "label": "C",
+    "start": 5.45,
+    "end": 7.24
+  },
+  {
+    "label": "D",
+    "start": 7.24,
+    "end": 9.03
+  },
+  {
+    "label": "E",
+    "start": 9.03,
+    "end": 10.82
+  },
+  {
+    "label": "F",
+    "start": 10.82,
+    "end": 12.61
+  },
+  {
+    "label": "OUTRO",
+    "start": 12.61,
+    "end": 14.9170625
+  }
+]

@@ -1,0 +1,23 @@
+# Supply a LOCAL A-Z catalog. The public demo only includes A-F.
+version: 2
+manifest: ../assets/local/manifest.json
+output_dir: ../output
+recipe:
+  name: alphabet
+  options:
+    labels: [A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z]
+providers:
+  text: gemini
+  audio: suno
+  alignment: suno
+  renderer: moviepy
+audio:
+  duration_seconds: 180
+  style: Cheerful English educational song, articulate vocals, sing every supplied line without skipping
+render:
+  width: 1280
+  height: 720
+  fps: 30
+  threads: 2
+  codec: libx264
+  serial: true

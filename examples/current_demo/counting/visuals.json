@@ -1,0 +1,76 @@
+{
+  "scenes": [
+    {
+      "id": "INTRO",
+      "asset_id": "fish",
+      "background_id": "sky",
+      "text_color": "#243750"
+    },
+    {
+      "id": "1",
+      "asset_id": "fish",
+      "background_id": "studio",
+      "text_color": "#243750"
+    },
+    {
+      "id": "2",
+      "asset_id": "apple",
+      "background_id": "water",
+      "text_color": "#243750"
+    },
+    {
+      "id": "3",
+      "asset_id": "apple",
+      "background_id": "sky",
+      "text_color": "#243750"
+    },
+    {
+      "id": "4",
+      "asset_id": "fish",
+      "background_id": "studio",
+      "text_color": "#243750"
+    },
+    {
+      "id": "5",
+      "asset_id": "cloud",
+      "background_id": "water",
+      "text_color": "#243750"
+    },
+    {
+      "id": "6",
+      "asset_id": "balloon",
+      "background_id": "sky",
+      "text_color": "#243750"
+    },
+    {
+      "id": "7",
+      "asset_id": "balloon",
+      "background_id": "studio",
+      "text_color": "#243750"
+    },
+    {
+      "id": "8",
+      "asset_id": "balloon",
+      "background_id": "water",
+      "text_color": "#243750"
+    },
+    {
+      "id": "9",
+      "asset_id": "fish",
+      "background_id": "sky",
+      "text_color": "#243750"
+    },
+    {
+      "id": "10",
+      "asset_id": "apple",
+      "background_id": "studio",
+      "text_color": "#243750"
+    },
+    {
+      "id": "OUTRO",
+      "asset_id": null,
+      "background_id": "water",
+      "text_color": "#243750"
+    }
+  ]
+}

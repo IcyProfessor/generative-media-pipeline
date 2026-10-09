@@ -1,0 +1,31 @@
+1
+00:00:00,300 --> 00:00:01,587
+Let us learn our letters today!
+
+2
+00:00:01,870 --> 00:00:03,377
+A is for apple, come and play!
+
+3
+00:00:03,660 --> 00:00:05,167
+B is for balloon, come and play!
+
+4
+00:00:05,450 --> 00:00:06,957
+C is for cloud, come and play!
+
+5
+00:00:07,240 --> 00:00:08,747
+D is for diamond, come and play!
+
+6
+00:00:09,030 --> 00:00:10,537
+E is for egg, come and play!
+
+7
+00:00:10,820 --> 00:00:12,327
+F is for fish, come and play!
+
+8
+00:00:12,610 --> 00:00:14,117
+We sang our letters, well done today!

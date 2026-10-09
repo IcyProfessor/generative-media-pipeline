@@ -1,0 +1,283 @@
+{
+  "version": 1,
+  "provider": "fixture",
+  "granularity": "word",
+  "spans": [
+    {
+      "text": "Let",
+      "start": 0.3,
+      "end": 0.436
+    },
+    {
+      "text": "us",
+      "start": 0.46,
+      "end": 0.596
+    },
+    {
+      "text": "learn",
+      "start": 0.62,
+      "end": 0.756
+    },
+    {
+      "text": "our",
+      "start": 0.78,
+      "end": 0.916
+    },
+    {
+      "text": "letters",
+      "start": 0.94,
+      "end": 1.076
+    },
+    {
+      "text": "today!",
+      "start": 1.1,
+      "end": 1.236
+    },
+    {
+      "text": "A",
+      "start": 1.51,
+      "end": 1.646
+    },
+    {
+      "text": "is",
+      "start": 1.67,
+      "end": 1.806
+    },
+    {
+      "text": "for",
+      "start": 1.83,
+      "end": 1.966
+    },
+    {
+      "text": "apple,",
+      "start": 1.99,
+      "end": 2.126
+    },
+    {
+      "text": "come",
+      "start": 2.15,
+      "end": 2.286
+    },
+    {
+      "text": "and",
+      "start": 2.31,
+      "end": 2.446
+    },
+    {
+      "text": "play!",
+      "start": 2.47,
+      "end": 2.606
+    },
+    {
+      "text": "B",
+      "start": 2.88,
+      "end": 3.016
+    },
+    {
+      "text": "is",
+      "start": 3.04,
+      "end": 3.176
+    },
+    {
+      "text": "for",
+      "start": 3.2,
+      "end": 3.336
+    },
+    {
+      "text": "balloon,",
+      "start": 3.36,
+      "end": 3.496
+    },
+    {
+      "text": "come",
+      "start": 3.52,
+      "end": 3.656
+    },
+    {
+      "text": "and",
+      "start": 3.68,
+      "end": 3.816
+    },
+    {
+      "text": "play!",
+      "start": 3.84,
+      "end": 3.976
+    },
+    {
+      "text": "C",
+      "start": 4.25,
+      "end": 4.386
+    },
+    {
+      "text": "is",
+      "start": 4.41,
+      "end": 4.546
+    },
+    {
+      "text": "for",
+      "start": 4.57,
+      "end": 4.706
+    },
+    {
+      "text": "cloud,",
+      "start": 4.73,
+      "end": 4.866
+    },
+    {
+      "text": "come",
+      "start": 4.89,
+      "end": 5.026
+    },
+    {
+      "text": "and",
+      "start": 5.05,
+      "end": 5.186
+    },
+    {
+      "text": "play!",
+      "start": 5.21,
+      "end": 5.346
+    },
+    {
+      "text": "D",
+      "start": 5.62,
+      "end": 5.756
+    },
+    {
+      "text": "is",
+      "start": 5.78,
+      "end": 5.916
+    },
+    {
+      "text": "for",
+      "start": 5.94,
+      "end": 6.076
+    },
+    {
+      "text": "diamond,",
+      "start": 6.1,
+      "end": 6.236
+    },
+    {
+      "text": "come",
+      "start": 6.26,
+      "end": 6.396
+    },
+    {
+      "text": "and",
+      "start": 6.42,
+      "end": 6.556
+    },
+    {
+      "text": "play!",
+      "start": 6.58,
+      "end": 6.716
+    },
+    {
+      "text": "E",
+      "start": 6.99,
+      "end": 7.126
+    },
+    {
+      "text": "is",
+      "start": 7.15,
+      "end": 7.286
+    },
+    {
+      "text": "for",
+      "start": 7.31,
+      "end": 7.446
+    },
+    {
+      "text": "egg,",
+      "start": 7.47,
+      "end": 7.606
+    },
+    {
+      "text": "come",
+      "start": 7.63,
+      "end": 7.766
+    },
+    {
+      "text": "and",
+      "start": 7.79,
+      "end": 7.926
+    },
+    {
+      "text": "play!",
+      "start": 7.95,
+      "end": 8.086
+    },
+    {
+      "text": "F",
+      "start": 8.36,
+      "end": 8.496
+    },
+    {
+      "text": "is",
+      "start": 8.52,
+      "end": 8.656
+    },
+    {
+      "text": "for",
+      "start": 8.68,
+      "end": 8.816
+    },
+    {
+      "text": "fish,",
+      "start": 8.84,
+      "end": 8.976
+    },
+    {
+      "text": "come",
+      "start": 9.0,
+      "end": 9.136
+    },
+    {
+      "text": "and",
+      "start": 9.16,
+      "end": 9.296
+    },
+    {
+      "text": "play!",
+      "start": 9.32,
+      "end": 9.456
+    },
+    {
+      "text": "We",
+      "start": 9.73,
+      "end": 9.866
+    },
+    {
+      "text": "sang",
+      "start": 9.89,
+      "end": 10.026
+    },
+    {
+      "text": "our",
+      "start": 10.05,
+      "end": 10.186
+    },
+    {
+      "text": "letters,",
+      "start": 10.21,
+      "end": 10.346
+    },
+    {
+      "text": "well",
+      "start": 10.37,
+      "end": 10.506
+    },
+    {
+      "text": "done",
+      "start": 10.53,
+      "end": 10.666
+    },
+    {
+      "text": "today!",
+      "start": 10.69,
+      "end": 10.826
+    }
+  ],
+  "acoustic_verification": "not_performed"
+}

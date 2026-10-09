@@ -1,0 +1,1282 @@
+{
+  "version": 2,
+  "duration": 12.146,
+  "scenes": [
+    {
+      "id": "INTRO",
+      "start": 0.0,
+      "end": 1.51,
+      "background_id": "sky",
+      "layers": [
+        {
+          "type": "text",
+          "text": "Let's count!",
+          "box": {
+            "x": 0.06,
+            "y": 0.06,
+            "width": 0.88,
+            "height": 0.17
+          },
+          "color": "#243750",
+          "font_size": 0.09,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.3,
+            "y": 0.25,
+            "width": 0.4,
+            "height": 0.5
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "start": 1.51,
+      "end": 2.4,
+      "background_id": "studio",
+      "layers": [
+        {
+          "type": "text",
+          "text": "1",
+          "box": {
+            "x": 0.67,
+            "y": 0.2,
+            "width": 0.27,
+            "height": 0.42
+          },
+          "color": "#243750",
+          "font_size": 0.36,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.035,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.045,
+            "y": 0.13,
+            "width": 0.48160000000000003,
+            "height": 0.48160000000000003
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "start": 2.4,
+      "end": 3.29,
+      "background_id": "water",
+      "layers": [
+        {
+          "type": "text",
+          "text": "2",
+          "box": {
+            "x": 0.67,
+            "y": 0.2,
+            "width": 0.27,
+            "height": 0.42
+          },
+          "color": "#243750",
+          "font_size": 0.36,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.035,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.045,
+            "y": 0.13,
+            "width": 0.24080000000000001,
+            "height": 0.48160000000000003
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.325,
+            "y": 0.13,
+            "width": 0.24080000000000001,
+            "height": 0.48160000000000003
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "start": 3.29,
+      "end": 4.18,
+      "background_id": "sky",
+      "layers": [
+        {
+          "type": "text",
+          "text": "3",
+          "box": {
+            "x": 0.67,
+            "y": 0.2,
+            "width": 0.27,
+            "height": 0.42
+          },
+          "color": "#243750",
+          "font_size": 0.36,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.035,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.045,
+            "y": 0.13,
+            "width": 0.24080000000000001,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.325,
+            "y": 0.13,
+            "width": 0.24080000000000001,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.045,
+            "y": 0.41000000000000003,
+            "width": 0.24080000000000001,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "start": 4.18,
+      "end": 5.07,
+      "background_id": "studio",
+      "layers": [
+        {
+          "type": "text",
+          "text": "4",
+          "box": {
+            "x": 0.67,
+            "y": 0.2,
+            "width": 0.27,
+            "height": 0.42
+          },
+          "color": "#243750",
+          "font_size": 0.36,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.035,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.045,
+            "y": 0.13,
+            "width": 0.24080000000000001,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.325,
+            "y": 0.13,
+            "width": 0.24080000000000001,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.045,
+            "y": 0.41000000000000003,
+            "width": 0.24080000000000001,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.325,
+            "y": 0.41000000000000003,
+            "width": 0.24080000000000001,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "start": 5.07,
+      "end": 5.96,
+      "background_id": "water",
+      "layers": [
+        {
+          "type": "text",
+          "text": "5",
+          "box": {
+            "x": 0.67,
+            "y": 0.2,
+            "width": 0.27,
+            "height": 0.42
+          },
+          "color": "#243750",
+          "font_size": 0.36,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.035,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "cloud",
+          "box": {
+            "x": 0.045,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "cloud",
+          "box": {
+            "x": 0.2316666666666667,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "cloud",
+          "box": {
+            "x": 0.41833333333333333,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "cloud",
+          "box": {
+            "x": 0.045,
+            "y": 0.41000000000000003,
+            "width": 0.16053333333333333,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "cloud",
+          "box": {
+            "x": 0.2316666666666667,
+            "y": 0.41000000000000003,
+            "width": 0.16053333333333333,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "start": 5.96,
+      "end": 6.85,
+      "background_id": "sky",
+      "layers": [
+        {
+          "type": "text",
+          "text": "6",
+          "box": {
+            "x": 0.67,
+            "y": 0.2,
+            "width": 0.27,
+            "height": 0.42
+          },
+          "color": "#243750",
+          "font_size": 0.36,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.035,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.045,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.2316666666666667,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.41833333333333333,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.045,
+            "y": 0.41000000000000003,
+            "width": 0.16053333333333333,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.2316666666666667,
+            "y": 0.41000000000000003,
+            "width": 0.16053333333333333,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.41833333333333333,
+            "y": 0.41000000000000003,
+            "width": 0.16053333333333333,
+            "height": 0.24080000000000001
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "start": 6.85,
+      "end": 7.74,
+      "background_id": "studio",
+      "layers": [
+        {
+          "type": "text",
+          "text": "7",
+          "box": {
+            "x": 0.67,
+            "y": 0.2,
+            "width": 0.27,
+            "height": 0.42
+          },
+          "color": "#243750",
+          "font_size": 0.36,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.035,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.045,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.2316666666666667,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.41833333333333333,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.045,
+            "y": 0.31666666666666665,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.2316666666666667,
+            "y": 0.31666666666666665,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.41833333333333333,
+            "y": 0.31666666666666665,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.045,
+            "y": 0.5033333333333334,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "start": 7.74,
+      "end": 8.63,
+      "background_id": "water",
+      "layers": [
+        {
+          "type": "text",
+          "text": "8",
+          "box": {
+            "x": 0.67,
+            "y": 0.2,
+            "width": 0.27,
+            "height": 0.42
+          },
+          "color": "#243750",
+          "font_size": 0.36,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.035,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.045,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.2316666666666667,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.41833333333333333,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.045,
+            "y": 0.31666666666666665,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.2316666666666667,
+            "y": 0.31666666666666665,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.41833333333333333,
+            "y": 0.31666666666666665,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.045,
+            "y": 0.5033333333333334,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.2316666666666667,
+            "y": 0.5033333333333334,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "start": 8.63,
+      "end": 9.52,
+      "background_id": "sky",
+      "layers": [
+        {
+          "type": "text",
+          "text": "9",
+          "box": {
+            "x": 0.67,
+            "y": 0.2,
+            "width": 0.27,
+            "height": 0.42
+          },
+          "color": "#243750",
+          "font_size": 0.36,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.035,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.045,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.2316666666666667,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.41833333333333333,
+            "y": 0.13,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.045,
+            "y": 0.31666666666666665,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.2316666666666667,
+            "y": 0.31666666666666665,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.41833333333333333,
+            "y": 0.31666666666666665,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.045,
+            "y": 0.5033333333333334,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.2316666666666667,
+            "y": 0.5033333333333334,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.41833333333333333,
+            "y": 0.5033333333333334,
+            "width": 0.16053333333333333,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "start": 9.52,
+      "end": 10.41,
+      "background_id": "studio",
+      "layers": [
+        {
+          "type": "text",
+          "text": "10",
+          "box": {
+            "x": 0.67,
+            "y": 0.2,
+            "width": 0.27,
+            "height": 0.42
+          },
+          "color": "#243750",
+          "font_size": 0.36,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.035,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.045,
+            "y": 0.13,
+            "width": 0.12040000000000001,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.185,
+            "y": 0.13,
+            "width": 0.12040000000000001,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.325,
+            "y": 0.13,
+            "width": 0.12040000000000001,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.465,
+            "y": 0.13,
+            "width": 0.12040000000000001,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.045,
+            "y": 0.31666666666666665,
+            "width": 0.12040000000000001,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.185,
+            "y": 0.31666666666666665,
+            "width": 0.12040000000000001,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.325,
+            "y": 0.31666666666666665,
+            "width": 0.12040000000000001,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.465,
+            "y": 0.31666666666666665,
+            "width": 0.12040000000000001,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.045,
+            "y": 0.5033333333333334,
+            "width": 0.12040000000000001,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.185,
+            "y": 0.5033333333333334,
+            "width": 0.12040000000000001,
+            "height": 0.16053333333333333
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "OUTRO",
+      "start": 10.41,
+      "end": 12.146,
+      "background_id": "water",
+      "layers": [
+        {
+          "type": "text",
+          "text": "Well done!",
+          "box": {
+            "x": 0.06,
+            "y": 0.06,
+            "width": 0.88,
+            "height": 0.17
+          },
+          "color": "#243750",
+          "font_size": 0.09,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    }
+  ]
+}

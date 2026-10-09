@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "duration": 17.6595,
+  "scenes": [
+    {
+      "label": "INTRO",
+      "start": 0.0,
+      "end": 2.17,
+      "asset_id": "apple",
+      "background_id": "sky",
+      "text_color": "#243750"
+    },
+    {
+      "label": "A",
+      "start": 2.17,
+      "end": 4.31,
+      "asset_id": "apple",
+      "background_id": "studio",
+      "text_color": "#243750"
+    },
+    {
+      "label": "B",
+      "start": 4.31,
+      "end": 6.45,
+      "asset_id": "balloon",
+      "background_id": "water",
+      "text_color": "#243750"
+    },
+    {
+      "label": "C",
+      "start": 6.45,
+      "end": 8.59,
+      "asset_id": "cloud",
+      "background_id": "sky",
+      "text_color": "#243750"
+    },
+    {
+      "label": "D",
+      "start": 8.59,
+      "end": 10.73,
+      "asset_id": "diamond",
+      "background_id": "studio",
+      "text_color": "#243750"
+    },
+    {
+      "label": "E",
+      "start": 10.73,
+      "end": 12.87,
+      "asset_id": "egg",
+      "background_id": "water",
+      "text_color": "#243750"
+    },
+    {
+      "label": "F",
+      "start": 12.87,
+      "end": 15.01,
+      "asset_id": "fish",
+      "background_id": "sky",
+      "text_color": "#243750"
+    },
+    {
+      "label": "OUTRO",
+      "start": 15.01,
+      "end": 17.6595,
+      "asset_id": null,
+      "background_id": "studio",
+      "text_color": "#243750"
+    }
+  ]
+}

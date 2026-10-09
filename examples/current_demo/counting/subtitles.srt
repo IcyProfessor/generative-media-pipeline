@@ -1,0 +1,47 @@
+1
+00:00:00,300 --> 00:00:01,236
+Come and count along with me!
+
+2
+00:00:01,510 --> 00:00:02,126
+One fish, dancing happily!
+
+3
+00:00:02,400 --> 00:00:03,016
+Two apples, dancing happily!
+
+4
+00:00:03,290 --> 00:00:03,906
+Three apples, dancing happily!
+
+5
+00:00:04,180 --> 00:00:04,796
+Four fish, dancing happily!
+
+6
+00:00:05,070 --> 00:00:05,686
+Five clouds, dancing happily!
+
+7
+00:00:05,960 --> 00:00:06,576
+Six balloons, dancing happily!
+
+8
+00:00:06,850 --> 00:00:07,466
+Seven balloons, dancing happily!
+
+9
+00:00:07,740 --> 00:00:08,356
+Eight balloons, dancing happily!
+
+10
+00:00:08,630 --> 00:00:09,246
+Nine fish, dancing happily!
+
+11
+00:00:09,520 --> 00:00:10,136
+Ten apples, dancing happily!
+
+12
+00:00:10,410 --> 00:00:11,346
+We counted together, well done today!

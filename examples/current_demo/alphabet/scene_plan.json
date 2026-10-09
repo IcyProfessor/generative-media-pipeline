@@ -1,0 +1,375 @@
+{
+  "version": 2,
+  "duration": 11.6260625,
+  "scenes": [
+    {
+      "id": "INTRO",
+      "start": 0.0,
+      "end": 1.51,
+      "background_id": "sky",
+      "layers": [
+        {
+          "type": "text",
+          "text": "Let's learn!",
+          "box": {
+            "x": 0.08,
+            "y": 0.04,
+            "width": 0.84,
+            "height": 0.17
+          },
+          "color": "#243750",
+          "font_size": 0.1,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.025,
+            "y": 0.25,
+            "width": 0.29,
+            "height": 0.5
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "left",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0.015
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.355,
+            "y": 0.25,
+            "width": 0.29,
+            "height": 0.5
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "top",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0.015
+          }
+        },
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.685,
+            "y": 0.25,
+            "width": 0.29,
+            "height": 0.5
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "right",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "A",
+      "start": 1.51,
+      "end": 2.88,
+      "background_id": "studio",
+      "layers": [
+        {
+          "type": "image",
+          "asset_id": "apple",
+          "box": {
+            "x": 0.04,
+            "y": 0.08,
+            "width": 0.46,
+            "height": 0.66
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "left",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0.015
+          }
+        },
+        {
+          "type": "text",
+          "text": "A",
+          "box": {
+            "x": 0.535,
+            "y": 0.09,
+            "width": 0.43,
+            "height": 0.62
+          },
+          "color": "#C2185B",
+          "font_size": 0.5,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.06,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "start": 2.88,
+      "end": 4.25,
+      "background_id": "water",
+      "layers": [
+        {
+          "type": "image",
+          "asset_id": "balloon",
+          "box": {
+            "x": 0.04,
+            "y": 0.08,
+            "width": 0.46,
+            "height": 0.66
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "left",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0.015
+          }
+        },
+        {
+          "type": "text",
+          "text": "B",
+          "box": {
+            "x": 0.535,
+            "y": 0.09,
+            "width": 0.43,
+            "height": 0.62
+          },
+          "color": "#2E7D32",
+          "font_size": 0.5,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.06,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "start": 4.25,
+      "end": 5.62,
+      "background_id": "sky",
+      "layers": [
+        {
+          "type": "image",
+          "asset_id": "cloud",
+          "box": {
+            "x": 0.04,
+            "y": 0.08,
+            "width": 0.46,
+            "height": 0.66
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "left",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0.015
+          }
+        },
+        {
+          "type": "text",
+          "text": "C",
+          "box": {
+            "x": 0.535,
+            "y": 0.09,
+            "width": 0.43,
+            "height": 0.62
+          },
+          "color": "#AD1457",
+          "font_size": 0.5,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.06,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "start": 5.62,
+      "end": 6.99,
+      "background_id": "studio",
+      "layers": [
+        {
+          "type": "image",
+          "asset_id": "diamond",
+          "box": {
+            "x": 0.5,
+            "y": 0.08,
+            "width": 0.46,
+            "height": 0.66
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "right",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0.015
+          }
+        },
+        {
+          "type": "text",
+          "text": "D",
+          "box": {
+            "x": 0.035,
+            "y": 0.09,
+            "width": 0.43,
+            "height": 0.62
+          },
+          "color": "#E65100",
+          "font_size": 0.5,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.06,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "start": 6.99,
+      "end": 8.36,
+      "background_id": "water",
+      "layers": [
+        {
+          "type": "image",
+          "asset_id": "egg",
+          "box": {
+            "x": 0.5,
+            "y": 0.08,
+            "width": 0.46,
+            "height": 0.66
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "right",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0.015
+          }
+        },
+        {
+          "type": "text",
+          "text": "E",
+          "box": {
+            "x": 0.035,
+            "y": 0.09,
+            "width": 0.43,
+            "height": 0.62
+          },
+          "color": "#7C3AED",
+          "font_size": 0.5,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.06,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "F",
+      "start": 8.36,
+      "end": 9.73,
+      "background_id": "sky",
+      "layers": [
+        {
+          "type": "image",
+          "asset_id": "fish",
+          "box": {
+            "x": 0.04,
+            "y": 0.08,
+            "width": 0.46,
+            "height": 0.66
+          },
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "left",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0.015
+          }
+        },
+        {
+          "type": "text",
+          "text": "F",
+          "box": {
+            "x": 0.535,
+            "y": 0.09,
+            "width": 0.43,
+            "height": 0.62
+          },
+          "color": "#0E7490",
+          "font_size": 0.5,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0.06,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "OUTRO",
+      "start": 9.73,
+      "end": 11.6260625,
+      "background_id": "studio",
+      "layers": [
+        {
+          "type": "text",
+          "text": "Well done!",
+          "box": {
+            "x": 0.06,
+            "y": 0.06,
+            "width": 0.88,
+            "height": 0.17
+          },
+          "color": "#243750",
+          "font_size": 0.09,
+          "motion": {
+            "fade_seconds": 0.25,
+            "enter": "none",
+            "enter_seconds": 0.6,
+            "pulse": 0,
+            "bob": 0
+          }
+        }
+      ]
+    }
+  ]
+}

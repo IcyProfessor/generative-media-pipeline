@@ -1,0 +1,17 @@
+version: 2
+manifest: ../src/genmedia/data/assets/demo/manifest.json
+output_dir: ../output
+recipe:
+  name: alphabet
+  options:
+    labels: [A, B, C, D, E, F]
+providers:
+  text: fixture
+  audio: fixture
+  alignment: fixture
+  renderer: moviepy
+render:
+  width: 640
+  height: 360
+  fps: 12
+  preset: veryfast

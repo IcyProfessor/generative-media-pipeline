@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "title": "Offline alphabet fixture",
+  "segments": [
+    {
+      "id": "INTRO",
+      "text": "Let us learn our letters today!",
+      "asset_id": null,
+      "audio_section": "intro"
+    },
+    {
+      "id": "A",
+      "text": "A is for apple, come and play!",
+      "asset_id": "apple",
+      "audio_section": "verse"
+    },
+    {
+      "id": "B",
+      "text": "B is for balloon, come and play!",
+      "asset_id": "balloon",
+      "audio_section": "verse"
+    },
+    {
+      "id": "C",
+      "text": "C is for cloud, come and play!",
+      "asset_id": "cloud",
+      "audio_section": "verse"
+    },
+    {
+      "id": "D",
+      "text": "D is for diamond, come and play!",
+      "asset_id": "diamond",
+      "audio_section": "verse"
+    },
+    {
+      "id": "E",
+      "text": "E is for egg, come and play!",
+      "asset_id": "egg",
+      "audio_section": "verse"
+    },
+    {
+      "id": "F",
+      "text": "F is for fish, come and play!",
+      "asset_id": "fish",
+      "audio_section": "verse"
+    },
+    {
+      "id": "OUTRO",
+      "text": "We sang our letters, well done today!",
+      "asset_id": null,
+      "audio_section": "outro"
+    }
+  ]
+}

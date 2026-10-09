@@ -1,0 +1,17 @@
+include LICENSE CHANGELOG.md pyproject.toml .env.example docker-compose.yml
+include .gitignore .gitattributes .python-version
+recursive-include .github *.yml
+recursive-include src/genmedia/data/assets/demo *.json *.md *.png
+include configs/alphabet.yaml configs/counting.yaml configs/alphabet-full.example.yaml
+recursive-include tests *.py
+recursive-include examples *.json *.txt *.srt *.wav *.md *.mp4
+recursive-include scripts *.py *.cmd
+exclude .env
+prune output
+prune configs/output
+prune assets/local
+prune .venv
+prune venv
+prune .git
+global-exclude *.py[cod] *.ttf *.otf *.woff *.woff2 *.pem *.log
+global-exclude .env .env.local .env.production local*.yaml local*.yml local*.json

@@ -1,0 +1,268 @@
+{
+  "version": 1,
+  "provider": "fixture",
+  "granularity": "word",
+  "spans": [
+    {
+      "text": "Come",
+      "start": 0.3,
+      "end": 0.436
+    },
+    {
+      "text": "and",
+      "start": 0.46,
+      "end": 0.596
+    },
+    {
+      "text": "count",
+      "start": 0.62,
+      "end": 0.756
+    },
+    {
+      "text": "along",
+      "start": 0.78,
+      "end": 0.916
+    },
+    {
+      "text": "with",
+      "start": 0.94,
+      "end": 1.076
+    },
+    {
+      "text": "me!",
+      "start": 1.1,
+      "end": 1.236
+    },
+    {
+      "text": "One",
+      "start": 1.51,
+      "end": 1.646
+    },
+    {
+      "text": "fish,",
+      "start": 1.67,
+      "end": 1.806
+    },
+    {
+      "text": "dancing",
+      "start": 1.83,
+      "end": 1.966
+    },
+    {
+      "text": "happily!",
+      "start": 1.99,
+      "end": 2.126
+    },
+    {
+      "text": "Two",
+      "start": 2.4,
+      "end": 2.536
+    },
+    {
+      "text": "apples,",
+      "start": 2.56,
+      "end": 2.696
+    },
+    {
+      "text": "dancing",
+      "start": 2.72,
+      "end": 2.856
+    },
+    {
+      "text": "happily!",
+      "start": 2.88,
+      "end": 3.016
+    },
+    {
+      "text": "Three",
+      "start": 3.29,
+      "end": 3.426
+    },
+    {
+      "text": "apples,",
+      "start": 3.45,
+      "end": 3.586
+    },
+    {
+      "text": "dancing",
+      "start": 3.61,
+      "end": 3.746
+    },
+    {
+      "text": "happily!",
+      "start": 3.77,
+      "end": 3.906
+    },
+    {
+      "text": "Four",
+      "start": 4.18,
+      "end": 4.316
+    },
+    {
+      "text": "fish,",
+      "start": 4.34,
+      "end": 4.476
+    },
+    {
+      "text": "dancing",
+      "start": 4.5,
+      "end": 4.636
+    },
+    {
+      "text": "happily!",
+      "start": 4.66,
+      "end": 4.796
+    },
+    {
+      "text": "Five",
+      "start": 5.07,
+      "end": 5.206
+    },
+    {
+      "text": "clouds,",
+      "start": 5.23,
+      "end": 5.366
+    },
+    {
+      "text": "dancing",
+      "start": 5.39,
+      "end": 5.526
+    },
+    {
+      "text": "happily!",
+      "start": 5.55,
+      "end": 5.686
+    },
+    {
+      "text": "Six",
+      "start": 5.96,
+      "end": 6.096
+    },
+    {
+      "text": "balloons,",
+      "start": 6.12,
+      "end": 6.256
+    },
+    {
+      "text": "dancing",
+      "start": 6.28,
+      "end": 6.416
+    },
+    {
+      "text": "happily!",
+      "start": 6.44,
+      "end": 6.576
+    },
+    {
+      "text": "Seven",
+      "start": 6.85,
+      "end": 6.986
+    },
+    {
+      "text": "balloons,",
+      "start": 7.01,
+      "end": 7.146
+    },
+    {
+      "text": "dancing",
+      "start": 7.17,
+      "end": 7.306
+    },
+    {
+      "text": "happily!",
+      "start": 7.33,
+      "end": 7.466
+    },
+    {
+      "text": "Eight",
+      "start": 7.74,
+      "end": 7.876
+    },
+    {
+      "text": "balloons,",
+      "start": 7.9,
+      "end": 8.036
+    },
+    {
+      "text": "dancing",
+      "start": 8.06,
+      "end": 8.196
+    },
+    {
+      "text": "happily!",
+      "start": 8.22,
+      "end": 8.356
+    },
+    {
+      "text": "Nine",
+      "start": 8.63,
+      "end": 8.766
+    },
+    {
+      "text": "fish,",
+      "start": 8.79,
+      "end": 8.926
+    },
+    {
+      "text": "dancing",
+      "start": 8.95,
+      "end": 9.086
+    },
+    {
+      "text": "happily!",
+      "start": 9.11,
+      "end": 9.246
+    },
+    {
+      "text": "Ten",
+      "start": 9.52,
+      "end": 9.656
+    },
+    {
+      "text": "apples,",
+      "start": 9.68,
+      "end": 9.816
+    },
+    {
+      "text": "dancing",
+      "start": 9.84,
+      "end": 9.976
+    },
+    {
+      "text": "happily!",
+      "start": 10.0,
+      "end": 10.136
+    },
+    {
+      "text": "We",
+      "start": 10.41,
+      "end": 10.546
+    },
+    {
+      "text": "counted",
+      "start": 10.57,
+      "end": 10.706
+    },
+    {
+      "text": "together,",
+      "start": 10.73,
+      "end": 10.866
+    },
+    {
+      "text": "well",
+      "start": 10.89,
+      "end": 11.026
+    },
+    {
+      "text": "done",
+      "start": 11.05,
+      "end": 11.186
+    },
+    {
+      "text": "today!",
+      "start": 11.21,
+      "end": 11.346
+    }
+  ],
+  "acoustic_verification": "not_performed"
+}

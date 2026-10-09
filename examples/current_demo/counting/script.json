@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "title": "Offline counting fixture",
+  "segments": [
+    {
+      "id": "INTRO",
+      "text": "Come and count along with me!",
+      "asset_id": null,
+      "audio_section": "intro"
+    },
+    {
+      "id": "1",
+      "text": "One fish, dancing happily!",
+      "asset_id": "fish",
+      "audio_section": "verse"
+    },
+    {
+      "id": "2",
+      "text": "Two apples, dancing happily!",
+      "asset_id": "apple",
+      "audio_section": "verse"
+    },
+    {
+      "id": "3",
+      "text": "Three apples, dancing happily!",
+      "asset_id": "apple",
+      "audio_section": "verse"
+    },
+    {
+      "id": "4",
+      "text": "Four fish, dancing happily!",
+      "asset_id": "fish",
+      "audio_section": "verse"
+    },
+    {
+      "id": "5",
+      "text": "Five clouds, dancing happily!",
+      "asset_id": "cloud",
+      "audio_section": "verse"
+    },
+    {
+      "id": "6",
+      "text": "Six balloons, dancing happily!",
+      "asset_id": "balloon",
+      "audio_section": "verse"
+    },
+    {
+      "id": "7",
+      "text": "Seven balloons, dancing happily!",
+      "asset_id": "balloon",
+      "audio_section": "verse"
+    },
+    {
+      "id": "8",
+      "text": "Eight balloons, dancing happily!",
+      "asset_id": "balloon",
+      "audio_section": "verse"
+    },
+    {
+      "id": "9",
+      "text": "Nine fish, dancing happily!",
+      "asset_id": "fish",
+      "audio_section": "verse"
+    },
+    {
+      "id": "10",
+      "text": "Ten apples, dancing happily!",
+      "asset_id": "apple",
+      "audio_section": "verse"
+    },
+    {
+      "id": "OUTRO",
+      "text": "We counted together, well done today!",
+      "asset_id": null,
+      "audio_section": "outro"
+    }
+  ]
+}

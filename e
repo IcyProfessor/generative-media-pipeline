@@ -1,0 +1,9 @@
+src/genmedia/pipeline/orchestrator.py:210: trailing whitespace.
+[32m+[m[41m           [m
+src/genmedia/pipeline/orchestrator.py:457: new blank line at EOF.
+src/genmedia/providers/suno.py:134: trailing whitespace.
+[32m+[m[32m            )[m[41m    [m
+src/genmedia/providers/suno.py:151: trailing whitespace.
+[32m+[m[41m        [m
+src/genmedia/providers/suno_schema.py:82: new blank line at EOF.
+src/genmedia/recipes/alphabet.py:265: new blank line at EOF.

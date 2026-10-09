@@ -1,0 +1,332 @@
+[
+  {
+    "word": "Let",
+    "startS": 0.3,
+    "endS": 0.487,
+    "success": true
+  },
+  {
+    "word": "us",
+    "startS": 0.52,
+    "endS": 0.707,
+    "success": true
+  },
+  {
+    "word": "learn",
+    "startS": 0.74,
+    "endS": 0.927,
+    "success": true
+  },
+  {
+    "word": "our",
+    "startS": 0.96,
+    "endS": 1.147,
+    "success": true
+  },
+  {
+    "word": "letters",
+    "startS": 1.18,
+    "endS": 1.367,
+    "success": true
+  },
+  {
+    "word": "today!",
+    "startS": 1.4,
+    "endS": 1.587,
+    "success": true
+  },
+  {
+    "word": "A",
+    "startS": 1.87,
+    "endS": 2.057,
+    "success": true
+  },
+  {
+    "word": "is",
+    "startS": 2.09,
+    "endS": 2.277,
+    "success": true
+  },
+  {
+    "word": "for",
+    "startS": 2.31,
+    "endS": 2.497,
+    "success": true
+  },
+  {
+    "word": "apple,",
+    "startS": 2.53,
+    "endS": 2.717,
+    "success": true
+  },
+  {
+    "word": "come",
+    "startS": 2.75,
+    "endS": 2.937,
+    "success": true
+  },
+  {
+    "word": "and",
+    "startS": 2.97,
+    "endS": 3.157,
+    "success": true
+  },
+  {
+    "word": "play!",
+    "startS": 3.19,
+    "endS": 3.377,
+    "success": true
+  },
+  {
+    "word": "B",
+    "startS": 3.66,
+    "endS": 3.847,
+    "success": true
+  },
+  {
+    "word": "is",
+    "startS": 3.88,
+    "endS": 4.067,
+    "success": true
+  },
+  {
+    "word": "for",
+    "startS": 4.1,
+    "endS": 4.287,
+    "success": true
+  },
+  {
+    "word": "balloon,",
+    "startS": 4.32,
+    "endS": 4.507,
+    "success": true
+  },
+  {
+    "word": "come",
+    "startS": 4.54,
+    "endS": 4.727,
+    "success": true
+  },
+  {
+    "word": "and",
+    "startS": 4.76,
+    "endS": 4.947,
+    "success": true
+  },
+  {
+    "word": "play!",
+    "startS": 4.98,
+    "endS": 5.167,
+    "success": true
+  },
+  {
+    "word": "C",
+    "startS": 5.45,
+    "endS": 5.637,
+    "success": true
+  },
+  {
+    "word": "is",
+    "startS": 5.67,
+    "endS": 5.857,
+    "success": true
+  },
+  {
+    "word": "for",
+    "startS": 5.89,
+    "endS": 6.077,
+    "success": true
+  },
+  {
+    "word": "cloud,",
+    "startS": 6.11,
+    "endS": 6.297,
+    "success": true
+  },
+  {
+    "word": "come",
+    "startS": 6.33,
+    "endS": 6.517,
+    "success": true
+  },
+  {
+    "word": "and",
+    "startS": 6.55,
+    "endS": 6.737,
+    "success": true
+  },
+  {
+    "word": "play!",
+    "startS": 6.77,
+    "endS": 6.957,
+    "success": true
+  },
+  {
+    "word": "D",
+    "startS": 7.24,
+    "endS": 7.427,
+    "success": true
+  },
+  {
+    "word": "is",
+    "startS": 7.46,
+    "endS": 7.647,
+    "success": true
+  },
+  {
+    "word": "for",
+    "startS": 7.68,
+    "endS": 7.867,
+    "success": true
+  },
+  {
+    "word": "diamond,",
+    "startS": 7.9,
+    "endS": 8.087,
+    "success": true
+  },
+  {
+    "word": "come",
+    "startS": 8.12,
+    "endS": 8.307,
+    "success": true
+  },
+  {
+    "word": "and",
+    "startS": 8.34,
+    "endS": 8.527,
+    "success": true
+  },
+  {
+    "word": "play!",
+    "startS": 8.56,
+    "endS": 8.747,
+    "success": true
+  },
+  {
+    "word": "E",
+    "startS": 9.03,
+    "endS": 9.217,
+    "success": true
+  },
+  {
+    "word": "is",
+    "startS": 9.25,
+    "endS": 9.437,
+    "success": true
+  },
+  {
+    "word": "for",
+    "startS": 9.47,
+    "endS": 9.657,
+    "success": true
+  },
+  {
+    "word": "egg,",
+    "startS": 9.69,
+    "endS": 9.877,
+    "success": true
+  },
+  {
+    "word": "come",
+    "startS": 9.91,
+    "endS": 10.097,
+    "success": true
+  },
+  {
+    "word": "and",
+    "startS": 10.13,
+    "endS": 10.317,
+    "success": true
+  },
+  {
+    "word": "play!",
+    "startS": 10.35,
+    "endS": 10.537,
+    "success": true
+  },
+  {
+    "word": "F",
+    "startS": 10.82,
+    "endS": 11.007,
+    "success": true
+  },
+  {
+    "word": "is",
+    "startS": 11.04,
+    "endS": 11.227,
+    "success": true
+  },
+  {
+    "word": "for",
+    "startS": 11.26,
+    "endS": 11.447,
+    "success": true
+  },
+  {
+    "word": "fish,",
+    "startS": 11.48,
+    "endS": 11.667,
+    "success": true
+  },
+  {
+    "word": "come",
+    "startS": 11.7,
+    "endS": 11.887,
+    "success": true
+  },
+  {
+    "word": "and",
+    "startS": 11.92,
+    "endS": 12.107,
+    "success": true
+  },
+  {
+    "word": "play!",
+    "startS": 12.14,
+    "endS": 12.327,
+    "success": true
+  },
+  {
+    "word": "We",
+    "startS": 12.61,
+    "endS": 12.797,
+    "success": true
+  },
+  {
+    "word": "sang",
+    "startS": 12.83,
+    "endS": 13.017,
+    "success": true
+  },
+  {
+    "word": "our",
+    "startS": 13.05,
+    "endS": 13.237,
+    "success": true
+  },
+  {
+    "word": "letters,",
+    "startS": 13.27,
+    "endS": 13.457,
+    "success": true
+  },
+  {
+    "word": "well",
+    "startS": 13.49,
+    "endS": 13.677,
+    "success": true
+  },
+  {
+    "word": "done",
+    "startS": 13.71,
+    "endS": 13.897,
+    "success": true
+  },
+  {
+    "word": "today!",
+    "startS": 13.93,
+    "endS": 14.117,
+    "success": true
+  }
+]
