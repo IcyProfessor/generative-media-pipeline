@@ -9,5 +9,5 @@ metadata. The tones do not sing the displayed captions. This is an engineering
 smoke test, not a claim about generative audio quality.
 
 No font files are included. Pillow's installed default text renderer is used unless
-the user configures a local font path. The original project code uses the MIT License; this does not license
-any separately supplied third-party GIFs, fonts, music, or other media.
+the user configures a local font path. Select the repository's distribution license
+before public release; no license for the user's other media is inferred here.

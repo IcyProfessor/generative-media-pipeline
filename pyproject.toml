@@ -6,6 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "genmedia-pipeline"
 version = "0.3.0rc2"
 description = "Recipe-based generative media pipeline with typed scene plans and resumable execution"
+readme = "README.md"
 license = "MIT"
 requires-python = ">=3.12,<3.15"
 dependencies = [

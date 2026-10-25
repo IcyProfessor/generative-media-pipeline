@@ -1,8 +1,9 @@
-include LICENSE CHANGELOG.md pyproject.toml .env.example docker-compose.yml
+include LICENSE README.md START_HERE.md CHANGELOG.md pyproject.toml .env.example docker-compose.yml
 include .gitignore .gitattributes .python-version
 recursive-include .github *.yml
 recursive-include src/genmedia/data/assets/demo *.json *.md *.png
 include configs/alphabet.yaml configs/counting.yaml configs/alphabet-full.example.yaml
+recursive-include docs *.md *.json *.txt *.png
 recursive-include tests *.py
 recursive-include examples *.json *.txt *.srt *.wav *.md *.mp4
 recursive-include scripts *.py *.cmd

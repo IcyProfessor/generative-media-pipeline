@@ -36,7 +36,9 @@ def load_config(path: Path, *, live=False, output: Path | None = None) -> Config
     if not isinstance(data, dict):
         raise ValueError("Configuration must be a YAML mapping")
     if "labels" in data or "provider" in data:
-        raise ValueError("v0.2 config detected: use recipe.options and providers (see docs/MIGRATION.md)")
+        raise ValueError(
+            "Unsupported v0.2 config: expected recipe.options and providers."
+        )    
     cfg = Config.model_validate(data)
     cfg.manifest = str((path.parent / cfg.manifest).resolve())
     cfg.output_dir = str(output.resolve() if output else (path.parent / cfg.output_dir).resolve())
